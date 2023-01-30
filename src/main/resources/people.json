@@ -1,0 +1,2890 @@
+[{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bd6"
+  },
+  "firstName": "Jaime",
+  "lastName": "Cooper",
+  "age": 56,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bd3"
+      },
+      "since": 4,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bd5"
+      },
+      "since": 4,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bda"
+  },
+  "firstName": "Casey",
+  "lastName": "Cooper",
+  "age": 30,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bd7"
+      },
+      "since": 0,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bd9"
+      },
+      "since": 0,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bde"
+  },
+  "firstName": "Kendall",
+  "lastName": "Cooper",
+  "age": 66,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bdb"
+      },
+      "since": 15,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bdc"
+      },
+      "since": 15,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15be2"
+  },
+  "firstName": "Skyler",
+  "lastName": "Allen",
+  "age": 39,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15be0"
+      },
+      "since": 5,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15be1"
+      },
+      "since": 5,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15be6"
+  },
+  "firstName": "Casey",
+  "lastName": "Jones",
+  "age": 42,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15be5"
+      },
+      "since": 9,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15be3"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bea"
+  },
+  "firstName": "Skyler",
+  "lastName": "Wood",
+  "age": 32,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15be9"
+      },
+      "since": 7,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bee"
+  },
+  "firstName": "Jack",
+  "lastName": "Adams",
+  "age": 67,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15beb"
+      },
+      "since": 2,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bed"
+      },
+      "since": 2,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bec"
+      },
+      "since": 2,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bf2"
+  },
+  "firstName": "Jack",
+  "lastName": "Cooper",
+  "age": 97,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf1"
+      },
+      "since": 8,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf0"
+      },
+      "since": 8,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bf6"
+  },
+  "firstName": "Kendall",
+  "lastName": "Anderson",
+  "age": 20,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf3"
+      },
+      "since": 0,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf4"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bfa"
+  },
+  "firstName": "Harley",
+  "lastName": "Adams",
+  "age": 67,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf9"
+      },
+      "since": 5,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bf7"
+      },
+      "since": 5,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15bfe"
+  },
+  "firstName": "Riley",
+  "lastName": "Allen",
+  "age": 22,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bfc"
+      },
+      "since": 0,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bfd"
+      },
+      "since": 0,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c02"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 36,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15bff"
+      },
+      "since": 3,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c01"
+      },
+      "since": 3,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c06"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 80,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c05"
+      },
+      "since": 4,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c03"
+      },
+      "since": 4,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c0a"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 94,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c08"
+      },
+      "since": 0,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c09"
+      },
+      "since": 0,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c07"
+      },
+      "since": 0,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c0e"
+  },
+  "firstName": "Riley",
+  "lastName": "Smith",
+  "age": 82,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c0b"
+      },
+      "since": 14,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c0c"
+      },
+      "since": 14,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c12"
+  },
+  "firstName": "Jack",
+  "lastName": "Cooper",
+  "age": 24,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c11"
+      },
+      "since": 0,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c10"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c16"
+  },
+  "firstName": "Skyler",
+  "lastName": "Anderson",
+  "age": 79,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c13"
+      },
+      "since": 5,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c14"
+      },
+      "since": 5,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c1a"
+  },
+  "firstName": "Jaime",
+  "lastName": "Stewart",
+  "age": 76,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c17"
+      },
+      "since": 15,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c18"
+      },
+      "since": 15,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c1e"
+  },
+  "firstName": "Jack",
+  "lastName": "Anderson",
+  "age": 95,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c1c"
+      },
+      "since": 13,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c1b"
+      },
+      "since": 13,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c22"
+  },
+  "firstName": "Skyler",
+  "lastName": "Allen",
+  "age": 37,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c1f"
+      },
+      "since": 10,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c20"
+      },
+      "since": 10,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c21"
+      },
+      "since": 10,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c26"
+  },
+  "firstName": "Jack",
+  "lastName": "Allen",
+  "age": 36,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c25"
+      },
+      "since": 12,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c24"
+      },
+      "since": 12,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c2a"
+  },
+  "firstName": "Casey",
+  "lastName": "Jones",
+  "age": 29,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c28"
+      },
+      "since": 9,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c27"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c2e"
+  },
+  "firstName": "Harley",
+  "lastName": "Stewart",
+  "age": 56,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c2c"
+      },
+      "since": 9,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c2b"
+      },
+      "since": 9,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c2d"
+      },
+      "since": 9,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c32"
+  },
+  "firstName": "Jack",
+  "lastName": "Cooper",
+  "age": 46,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c31"
+      },
+      "since": 10,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c2f"
+      },
+      "since": 10,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c36"
+  },
+  "firstName": "Avery",
+  "lastName": "Smith",
+  "age": 98,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c34"
+      },
+      "since": 15,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c33"
+      },
+      "since": 15,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c35"
+      },
+      "since": 15,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c3a"
+  },
+  "firstName": "Jaime",
+  "lastName": "Allen",
+  "age": 36,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c39"
+      },
+      "since": 12,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c37"
+      },
+      "since": 12,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c3e"
+  },
+  "firstName": "Harley",
+  "lastName": "Cooper",
+  "age": 67,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c3c"
+      },
+      "since": 11,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c3b"
+      },
+      "since": 11,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c42"
+  },
+  "firstName": "Riley",
+  "lastName": "Adams",
+  "age": 76,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c40"
+      },
+      "since": 10,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c3f"
+      },
+      "since": 10,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c46"
+  },
+  "firstName": "Jaime",
+  "lastName": "Adams",
+  "age": 39,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c43"
+      },
+      "since": 11,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c44"
+      },
+      "since": 11,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c4a"
+  },
+  "firstName": "Kendall",
+  "lastName": "Hall",
+  "age": 27,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c48"
+      },
+      "since": 14,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c47"
+      },
+      "since": 14,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c4e"
+  },
+  "firstName": "Riley",
+  "lastName": "Cooper",
+  "age": 78,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c4c"
+      },
+      "since": 12,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c52"
+  },
+  "firstName": "Skyler",
+  "lastName": "Johnson",
+  "age": 72,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c51"
+      },
+      "since": 15,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c4f"
+      },
+      "since": 15,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c56"
+  },
+  "firstName": "Avery",
+  "lastName": "Anderson",
+  "age": 69,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c55"
+      },
+      "since": 5,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c54"
+      },
+      "since": 5,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c53"
+      },
+      "since": 5,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c5a"
+  },
+  "firstName": "Avery",
+  "lastName": "Hall",
+  "age": 30,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c57"
+      },
+      "since": 11,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c58"
+      },
+      "since": 11,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c5e"
+  },
+  "firstName": "Jaime",
+  "lastName": "Hall",
+  "age": 81,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c5c"
+      },
+      "since": 5,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c5b"
+      },
+      "since": 5,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c62"
+  },
+  "firstName": "Jessie",
+  "lastName": "Anderson",
+  "age": 43,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c60"
+      },
+      "since": 2,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c61"
+      },
+      "since": 2,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c5f"
+      },
+      "since": 2,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c66"
+  },
+  "firstName": "Skyler",
+  "lastName": "Anderson",
+  "age": 88,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c63"
+      },
+      "since": 15,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c65"
+      },
+      "since": 15,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c64"
+      },
+      "since": 15,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c6a"
+  },
+  "firstName": "Avery",
+  "lastName": "Adams",
+  "age": 32,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c69"
+      },
+      "since": 11,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c67"
+      },
+      "since": 11,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c6e"
+  },
+  "firstName": "Casey",
+  "lastName": "Wood",
+  "age": 87,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c6b"
+      },
+      "since": 8,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c6d"
+      },
+      "since": 8,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c72"
+  },
+  "firstName": "Jessie",
+  "lastName": "Stewart",
+  "age": 66,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c71"
+      },
+      "since": 9,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c6f"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c76"
+  },
+  "firstName": "Skyler",
+  "lastName": "Jones",
+  "age": 18,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c74"
+      },
+      "since": 0,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c75"
+      },
+      "since": 0,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c7a"
+  },
+  "firstName": "Avery",
+  "lastName": "Adams",
+  "age": 87,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c77"
+      },
+      "since": 14,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c78"
+      },
+      "since": 14,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c7e"
+  },
+  "firstName": "Avery",
+  "lastName": "Hall",
+  "age": 78,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c7d"
+      },
+      "since": 1,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c7c"
+      },
+      "since": 1,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c82"
+  },
+  "firstName": "Riley",
+  "lastName": "Smith",
+  "age": 63,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c7f"
+      },
+      "since": 12,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c80"
+      },
+      "since": 12,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c86"
+  },
+  "firstName": "Harley",
+  "lastName": "Smith",
+  "age": 34,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c83"
+      },
+      "since": 4,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c84"
+      },
+      "since": 4,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c85"
+      },
+      "since": 4,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c8a"
+  },
+  "firstName": "Skyler",
+  "lastName": "Johnson",
+  "age": 31,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c87"
+      },
+      "since": 10,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c89"
+      },
+      "since": 10,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c8e"
+  },
+  "firstName": "Kendall",
+  "lastName": "Stewart",
+  "age": 48,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c8b"
+      },
+      "since": 2,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c8d"
+      },
+      "since": 2,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c92"
+  },
+  "firstName": "Casey",
+  "lastName": "Jones",
+  "age": 21,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c90"
+      },
+      "since": 4,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c91"
+      },
+      "since": 4,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c96"
+  },
+  "firstName": "Skyler",
+  "lastName": "Anderson",
+  "age": 43,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c94"
+      },
+      "since": 1,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c95"
+      },
+      "since": 1,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c9a"
+  },
+  "firstName": "Avery",
+  "lastName": "Allen",
+  "age": 57,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c99"
+      },
+      "since": 9,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c98"
+      },
+      "since": 9,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c97"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15c9e"
+  },
+  "firstName": "Jack",
+  "lastName": "Hall",
+  "age": 64,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c9b"
+      },
+      "since": 1,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c9c"
+      },
+      "since": 1,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15c9d"
+      },
+      "since": 1,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15ca2"
+  },
+  "firstName": "Skyler",
+  "lastName": "Smith",
+  "age": 30,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca1"
+      },
+      "since": 6,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca0"
+      },
+      "since": 6,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15ca6"
+  },
+  "firstName": "Jaime",
+  "lastName": "Jones",
+  "age": 88,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca5"
+      },
+      "since": 0,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca4"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15caa"
+  },
+  "firstName": "Jack",
+  "lastName": "Adams",
+  "age": 69,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca9"
+      },
+      "since": 7,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca7"
+      },
+      "since": 7,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ca8"
+      },
+      "since": 7,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cae"
+  },
+  "firstName": "Jack",
+  "lastName": "Wood",
+  "age": 26,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cad"
+      },
+      "since": 11,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cab"
+      },
+      "since": 11,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cac"
+      },
+      "since": 11,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cb2"
+  },
+  "firstName": "Jessie",
+  "lastName": "Anderson",
+  "age": 93,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15caf"
+      },
+      "since": 3,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb0"
+      },
+      "since": 3,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cb6"
+  },
+  "firstName": "Jack",
+  "lastName": "Wood",
+  "age": 79,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb4"
+      },
+      "since": 5,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb5"
+      },
+      "since": 5,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb3"
+      },
+      "since": 5,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cba"
+  },
+  "firstName": "Jack",
+  "lastName": "Allen",
+  "age": 34,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb9"
+      },
+      "since": 12,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cb7"
+      },
+      "since": 12,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cbe"
+  },
+  "firstName": "Harley",
+  "lastName": "Johnson",
+  "age": 84,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cbc"
+      },
+      "since": 9,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cbb"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cc2"
+  },
+  "firstName": "Casey",
+  "lastName": "Johnson",
+  "age": 43,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc0"
+      },
+      "since": 2,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc1"
+      },
+      "since": 2,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cc6"
+  },
+  "firstName": "Riley",
+  "lastName": "Hall",
+  "age": 58,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc4"
+      },
+      "since": 14,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc3"
+      },
+      "since": 14,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cca"
+  },
+  "firstName": "Kendall",
+  "lastName": "Hall",
+  "age": 49,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc7"
+      },
+      "since": 7,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cc9"
+      },
+      "since": 7,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cce"
+  },
+  "firstName": "Casey",
+  "lastName": "Anderson",
+  "age": 43,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ccc"
+      },
+      "since": 7,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cd2"
+  },
+  "firstName": "Harley",
+  "lastName": "Jones",
+  "age": 43,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd0"
+      },
+      "since": 14,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd1"
+      },
+      "since": 14,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cd6"
+  },
+  "firstName": "Jaime",
+  "lastName": "Anderson",
+  "age": 74,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd4"
+      },
+      "since": 0,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd3"
+      },
+      "since": 0,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cda"
+  },
+  "firstName": "Riley",
+  "lastName": "Smith",
+  "age": 81,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd9"
+      },
+      "since": 8,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cd7"
+      },
+      "since": 8,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cde"
+  },
+  "firstName": "Skyler",
+  "lastName": "Stewart",
+  "age": 89,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cdb"
+      },
+      "since": 7,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15ce2"
+  },
+  "firstName": "Jaime",
+  "lastName": "Hall",
+  "age": 44,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cdf"
+      },
+      "since": 9,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce1"
+      },
+      "since": 9,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce0"
+      },
+      "since": 9,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15ce6"
+  },
+  "firstName": "Jack",
+  "lastName": "Adams",
+  "age": 92,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce4"
+      },
+      "since": 10,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce5"
+      },
+      "since": 10,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cea"
+  },
+  "firstName": "Casey",
+  "lastName": "Jones",
+  "age": 26,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce8"
+      },
+      "since": 8,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce9"
+      },
+      "since": 8,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ce7"
+      },
+      "since": 8,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cee"
+  },
+  "firstName": "Jessie",
+  "lastName": "Wood",
+  "age": 47,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ced"
+      },
+      "since": 9,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15ceb"
+      },
+      "since": 9,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cf2"
+  },
+  "firstName": "Avery",
+  "lastName": "Stewart",
+  "age": 36,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf1"
+      },
+      "since": 5,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf0"
+      },
+      "since": 5,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cf6"
+  },
+  "firstName": "Riley",
+  "lastName": "Jones",
+  "age": 83,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf5"
+      },
+      "since": 5,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf4"
+      },
+      "since": 5,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf3"
+      },
+      "since": 5,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cfa"
+  },
+  "firstName": "Jaime",
+  "lastName": "Smith",
+  "age": 74,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf9"
+      },
+      "since": 2,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf7"
+      },
+      "since": 2,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cf8"
+      },
+      "since": 2,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15cfe"
+  },
+  "firstName": "Riley",
+  "lastName": "Wood",
+  "age": 88,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cfb"
+      },
+      "since": 10,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d02"
+  },
+  "firstName": "Casey",
+  "lastName": "Hall",
+  "age": 70,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d01"
+      },
+      "since": 4,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15cff"
+      },
+      "since": 4,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d06"
+  },
+  "firstName": "Kendall",
+  "lastName": "Adams",
+  "age": 17,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d04"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d0a"
+  },
+  "firstName": "Kendall",
+  "lastName": "Jones",
+  "age": 71,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d07"
+      },
+      "since": 11,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d09"
+      },
+      "since": 11,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d0e"
+  },
+  "firstName": "Kendall",
+  "lastName": "Hall",
+  "age": 84,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d0c"
+      },
+      "since": 3,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d0d"
+      },
+      "since": 3,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d12"
+  },
+  "firstName": "Casey",
+  "lastName": "Wood",
+  "age": 54,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d11"
+      },
+      "since": 13,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d0f"
+      },
+      "since": 13,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d16"
+  },
+  "firstName": "Avery",
+  "lastName": "Hall",
+  "age": 36,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d14"
+      },
+      "since": 3,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d15"
+      },
+      "since": 3,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d1a"
+  },
+  "firstName": "Jessie",
+  "lastName": "Cooper",
+  "age": 48,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d19"
+      },
+      "since": 3,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d17"
+      },
+      "since": 3,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d1e"
+  },
+  "firstName": "Kendall",
+  "lastName": "Anderson",
+  "age": 88,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d1c"
+      },
+      "since": 10,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d1b"
+      },
+      "since": 10,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d22"
+  },
+  "firstName": "Jack",
+  "lastName": "Hall",
+  "age": 35,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d21"
+      },
+      "since": 2,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d1f"
+      },
+      "since": 2,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d26"
+  },
+  "firstName": "Jack",
+  "lastName": "Anderson",
+  "age": 23,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d24"
+      },
+      "since": 13,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d23"
+      },
+      "since": 13,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d2a"
+  },
+  "firstName": "Skyler",
+  "lastName": "Jones",
+  "age": 34,
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d28"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d2e"
+  },
+  "firstName": "Jessie",
+  "lastName": "Smith",
+  "age": 40,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d2d"
+      },
+      "since": 0,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d2c"
+      },
+      "since": 0,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d32"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 83,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d2f"
+      },
+      "since": 11,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d30"
+      },
+      "since": 11,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d36"
+  },
+  "firstName": "Kendall",
+  "lastName": "Allen",
+  "age": 65,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d35"
+      },
+      "since": 14,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d33"
+      },
+      "since": 14,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d34"
+      },
+      "since": 14,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d3a"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 20,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d39"
+      },
+      "since": 14,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d37"
+      },
+      "since": 14,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d3e"
+  },
+  "firstName": "Jack",
+  "lastName": "Hall",
+  "age": 15,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d3c"
+      },
+      "since": 7,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d3b"
+      },
+      "since": 7,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d42"
+  },
+  "firstName": "Skyler",
+  "lastName": "Adams",
+  "age": 86,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d41"
+      },
+      "since": 13,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d3f"
+      },
+      "since": 13,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d46"
+  },
+  "firstName": "Jaime",
+  "lastName": "Stewart",
+  "age": 67,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d44"
+      },
+      "since": 13,
+      "lang": "es"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d45"
+      },
+      "since": 13,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d4a"
+  },
+  "firstName": "Harley",
+  "lastName": "Smith",
+  "age": 20,
+  "gender": {
+    "gender": "male"
+  },
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d47"
+      },
+      "since": 6,
+      "lang": "en"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d48"
+      },
+      "since": 6,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d4e"
+  },
+  "firstName": "Harley",
+  "lastName": "Johnson",
+  "age": 81,
+  "languages": [
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d4b"
+      },
+      "since": 4,
+      "lang": "en"
+    },
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d4d"
+      },
+      "since": 4,
+      "lang": "fr"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d52"
+  },
+  "firstName": "Casey",
+  "lastName": "Cooper",
+  "age": 16,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d51"
+      },
+      "since": 4,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d50"
+      },
+      "since": 4,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d4f"
+      },
+      "since": 4,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d56"
+  },
+  "firstName": "Harley",
+  "lastName": "Stewart",
+  "age": 83,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d55"
+      },
+      "since": 2,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d54"
+      },
+      "since": 2,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d5a"
+  },
+  "firstName": "Jaime",
+  "lastName": "Hall",
+  "age": 57,
+  "gender": {
+    "gender": "female"
+  },
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d59"
+      },
+      "since": 10,
+      "lang": "fr"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d57"
+      },
+      "since": 10,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d5e"
+  },
+  "firstName": "Jaime",
+  "lastName": "Wood",
+  "age": 93,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d5d"
+      },
+      "since": 0,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d5c"
+      },
+      "since": 0,
+      "lang": "es"
+    },
+    {
+      "_t": "En",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d5b"
+      },
+      "since": 0,
+      "lang": "en"
+    }
+  ],
+  "favShape": null
+},{
+  "_id": {
+    "$oid": "63d51dac71bea72bb4e15d62"
+  },
+  "firstName": "Harley",
+  "lastName": "Smith",
+  "age": 30,
+  "languages": [
+    {
+      "_t": "Fr",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d61"
+      },
+      "since": 10,
+      "lang": "fr"
+    },
+    {
+      "_t": "Es",
+      "_id": {
+        "$oid": "63d51dac71bea72bb4e15d60"
+      },
+      "since": 10,
+      "lang": "es"
+    }
+  ],
+  "favShape": null
+}]
